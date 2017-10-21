@@ -274,7 +274,7 @@ Install from [Bower](http://bower.io/) as ```jquery-timepicker-jt```.
 
 An AngularJS directive is available at https://github.com/Recras/angular-jquery-timepicker
 
-Available via CDN at [https://cdn.jsdelivr.net/npm/timepicker/](https://cdn.jsdelivr.net/npm/timepicker/).
+Available via CDN at [https://cdn.jsdelivr.net/npm/timepicker/](https://cdn.jsdelivr.net/npm/timepicker/). [![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/timepicker/badge)](https://www.jsdelivr.com/package/npm/timepicker)
 
 NPM: [npm install --save timepicker](https://www.npmjs.com/package/timepicker)
 
